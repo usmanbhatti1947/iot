@@ -40,6 +40,8 @@ fn specialRequest(p:Passenger){
         None=>println!("passenger {:?} dont have special request", p.name)
     }
 }
+
+
 fn main(){
 let p1 = Passenger::new("Zain".to_string(), 3,Seattype::Business,Some("Ear plugs".to_string()));
 println!("passenger 1 :{:?}", p1);
