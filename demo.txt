@@ -1,3 +1,4 @@
 name: mahad(ubaid)
 age: 5 Years
 class: 1
+property: Talkative
